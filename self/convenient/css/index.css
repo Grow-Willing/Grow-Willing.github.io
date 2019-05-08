@@ -1,0 +1,41 @@
+body{
+	display: flex;
+	height: 100vh;
+	flex-direction: column;
+	justify-content: space-around;
+	font-family: Arial,Microsoft YaHei,Microsoft Sans Serif,Microsoft SanSerf,\\5FAE\8F6F\96C5\9ED1;
+}
+header{
+	font-size: 32px;
+	text-align: center;
+	padding: 5px;
+}
+ul{
+	flex: 1;
+	box-shadow: 0 0 1px 2px skyblue;
+}
+footer{
+	height: 32px;
+	line-height: 32px;
+	font-size: 10px;
+	text-align: center;
+}
+.link_list{
+	display: flex;
+	justify-items: center;
+	border: 2px solid blue;
+	border-radius: 7px;
+	margin:6px;
+}
+.link_list:hover{
+	transition-duration: .5s;
+	box-shadow: 2px 2px 1px 2px lightgray;
+	transform: scale(.998);
+}
+.link_list a{
+	flex: 1;
+}
+.link_icon{
+	height: 32px;
+	border-radius: 50px;
+}
