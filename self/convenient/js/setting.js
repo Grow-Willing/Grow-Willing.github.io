@@ -1,0 +1,30 @@
+export default [
+	{
+		"icon":"https://996icu.tv/theme/sp/assets/img/favicon-32x32.png",
+		"link":"https://996icu.tv/user"
+	},
+	{
+		"icon":"https://woocloud.online/favicon.ico",
+		"link":"https://woocloud.online/user"
+	},
+	{
+		"icon":"https://18asmr.org/wp-content/uploads/2018/10/icon2.png",
+		"link":"https://18asmr.org/"
+	},
+	{
+		"icon":"https://fulijiejie.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2019/03/cropped-920f87b609c5466de5715f8ea4977bb9-192x192.png",
+		"link":"https://ivsh.net/"
+	},
+	{
+		"icon":"https://www.linovel.net/favicon.ico",
+		"link":"https://www.linovel.net/"
+	},
+	{
+		"icon":"https://www.tsdm.love/favicon.ico",
+		"link":"https://www.tsdm.love/forum.php"
+	},
+	{
+		"icon":"https://www.bilibili.com/favicon.ico",
+		"link":"https://www.bilibili.com"
+	},
+]
