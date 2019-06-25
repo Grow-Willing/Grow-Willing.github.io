@@ -4,8 +4,8 @@ export default [
 		"link":"https://996icu.tv/user"
 	},
 	{
-		"icon":"https://woocloud.online/favicon.ico",
-		"link":"https://woocloud.online/user"
+		"icon":"https://woocloud.icu/favicon.ico",
+		"link":"https://woocloud.icu/user"
 	},
 	{
 		"icon":"https://18asmr.org/wp-content/uploads/2018/10/icon2.png",
