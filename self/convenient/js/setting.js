@@ -1,7 +1,7 @@
 export default [
 	{
-		"icon":"https://996icu.tv/theme/sp/assets/img/favicon-32x32.png",
-		"link":"https://996icu.tv/user"
+		"icon":"https://icu.bet/theme/sp/assets/img/favicon-32x32.png",
+		"link":"https://icu.bet/user"
 	},
 	{
 		"icon":"https://woocloud.icu/favicon.ico",
