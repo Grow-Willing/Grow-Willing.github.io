@@ -4,6 +4,7 @@ function createfunction(icon,link) {
 	let li=document.createElement("li");
 	li.classList.add("link_list");
 	let img=document.createElement("img");
+	img.referrerPolicy="no-referrer";
 	img.src=icon;
 	img.alt="icon";
 	img.classList.add("link_icon");
