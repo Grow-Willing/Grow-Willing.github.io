@@ -13,15 +13,15 @@ export default [
 	},
 	{
 		"icon":"https://fulijiejie.com/wp-content/uploads/2019/03/cropped-920f87b609c5466de5715f8ea4977bb9-270x270.png",
-		"link":"https://ivsh.net/"
+		"link":"https://fulijiejie.com/"
 	},
 	{
 		"icon":"https://www.linovel.net/favicon.ico",
 		"link":"https://www.linovel.net/"
 	},
 	{
-		"icon":"https://www.tsdm.love/favicon.ico",
-		"link":"https://www.tsdm.love/forum.php"
+		"icon":"https://www.tsdm.live/favicon.ico",
+		"link":"https://www.tsdm.live/forum.php"
 	},
 	{
 		"icon":"https://www.bilibili.com/favicon.ico",
