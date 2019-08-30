@@ -1,7 +1,13 @@
 export default [
 	{
 		"icon":"https://icu.bet/theme/sp/assets/img/favicon-32x32.png",
-		"link":"https://icu.bet/user"
+		"link":"https://icu.bet/user",
+		"insteadicon":[
+			"https://996icu.tv/wp-content/uploads/2018/10/icon2.png",
+		],
+		"insteadlink":[
+			"https://996icu.tv/",
+		],
 	},
 	{
 		"icon":"https://woocloud.icu/favicon.ico",
@@ -9,11 +15,25 @@ export default [
 	},
 	{
 		"icon":"https://18asmr.org/wp-content/uploads/2018/10/icon2.png",
-		"link":"https://18asmr.org/"
+		"link":"https://18asmr.org/",
+		"insteadicon":[
+			"http://18asmr.org/wp-content/uploads/2018/10/icon2.png",
+		],
+		"insteadlink":[
+			"http://18asmr.org/",
+		],
+		"releaselink":"https://fljj.xyz/",
+		"releaseicon":"https://fljj.xyz/icon.png"
 	},
 	{
+		"link":"https://bodamuqiang.com/",
 		"icon":"https://fulijiejie.com/wp-content/uploads/2019/03/cropped-920f87b609c5466de5715f8ea4977bb9-270x270.png",
-		"link":"https://fulijiejie.com/"
+		"insteadicon":[
+			"https://fulijiejie.com/wp-content/uploads/2019/03/cropped-920f87b609c5466de5715f8ea4977bb9-270x270.png",
+		],
+		"insteadlink":[
+			"https://fulijiejie.com/",
+		]
 	},
 	{
 		"icon":"https://www.linovel.net/favicon.ico",
