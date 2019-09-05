@@ -37,7 +37,13 @@ export default [
 	},
 	{
 		"icon":"https://www.linovel.net/favicon.ico",
-		"link":"https://www.linovel.net/"
+		"link":"https://www.linovel.net/",
+		"insteadicon":[
+			"https://www.qingzhiwenku.com/favicon.ico",
+		],
+		"insteadlink":[
+			"https://www.qingzhiwenku.com/",
+		]
 	},
 	{
 		"icon":"https://www.tsdm.live/favicon.ico",
