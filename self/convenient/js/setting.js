@@ -1,12 +1,12 @@
 export default [
 	{
-		"icon":"https://icu.bet/theme/sp/assets/img/favicon-32x32.png",
-		"link":"https://icu.bet/user",
+		"icon":"https://www.996icu.tv/favicon.ico",
+		"link":"https://www.996icu.tv",
 		"insteadicon":[
-			"https://996icu.tv/wp-content/uploads/2018/10/icon2.png",
+			"https://www.t-v.me/favicon.ico",
 		],
 		"insteadlink":[
-			"https://996icu.tv/",
+			"https://www.t-v.me",
 		],
 	},
 	{
