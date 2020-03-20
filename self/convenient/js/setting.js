@@ -21,19 +21,13 @@ export default [
 		],
 		"insteadlink":[
 			"http://18asmr.org/",
-		],
-		"releaselink":"https://fljj.xyz/",
-		"releaseicon":"https://fljj.xyz/icon.png"
+		]
 	},
 	{
-		"link":"https://bodamuqiang.com/",
+		"link":"https://fulijiejie.com/",
 		"icon":"https://fulijiejie.com/wp-content/uploads/2019/03/cropped-920f87b609c5466de5715f8ea4977bb9-270x270.png",
-		"insteadicon":[
-			"https://fulijiejie.com/wp-content/uploads/2019/03/cropped-920f87b609c5466de5715f8ea4977bb9-270x270.png",
-		],
-		"insteadlink":[
-			"https://fulijiejie.com/",
-		]
+		"releaselink":"https://fljj.xyz/",
+		"releaseicon":"https://fljj.xyz/icon.png"
 	},
 	{
 		"icon":"https://www.linovel.net/favicon.ico",
@@ -52,5 +46,9 @@ export default [
 	{
 		"icon":"https://www.bilibili.com/favicon.ico",
 		"link":"https://www.bilibili.com"
+	},
+	{
+		"icon":"https://acg.ge/wp-content/uploads/2019/02/a9610ae619331b6cc82d2138c882b8ed-192x192.jpg",
+		"link":"https://acg.ge/"
 	},
 ]
