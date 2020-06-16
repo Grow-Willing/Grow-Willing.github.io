@@ -14,13 +14,13 @@ export default [
 		"link":"https://woocloud.icu/user"
 	},
 	{
-		"icon":"https://18asmr.org/wp-content/uploads/2018/10/icon2.png",
-		"link":"https://18asmr.org/",
+		"icon":"https://18asmr.net/wp-content/uploads/2018/10/icon2.png",
+		"link":"https://18asmr.net/",
 		"insteadicon":[
-			"http://18asmr.org/wp-content/uploads/2018/10/icon2.png",
+			"http://18asmr.net/wp-content/uploads/2018/10/icon2.png",
 		],
 		"insteadlink":[
-			"http://18asmr.org/",
+			"http://18asmr.net/",
 		]
 	},
 	{
