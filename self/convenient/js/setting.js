@@ -40,8 +40,8 @@ export default [
 		]
 	},
 	{
-		"icon":"https://www.tsdm.live/favicon.ico",
-		"link":"https://www.tsdm.live/forum.php"
+		"icon":"https://www.tsdm39.net/favicon.ico",
+		"link":"https://www.tsdm39.net/forum.php"
 	},
 	{
 		"icon":"https://www.bilibili.com/favicon.ico",
