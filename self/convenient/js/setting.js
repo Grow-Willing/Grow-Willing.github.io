@@ -48,7 +48,7 @@ export default [
 		"link":"https://www.bilibili.com"
 	},
 	{
-		"icon":"https://acg.ge/wp-content/uploads/2019/02/a9610ae619331b6cc82d2138c882b8ed-192x192.jpg",
-		"link":"https://acg.ge/"
+		"icon":"https://xcy.moe/wp-content/uploads/2019/02/a9610ae619331b6cc82d2138c882b8ed-192x192.jpg",
+		"link":"https://xcy.moe/"
 	},
 ]
