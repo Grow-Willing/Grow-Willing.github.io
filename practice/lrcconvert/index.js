@@ -1,5 +1,19 @@
 let text=$("#text")[0];
 let output=$("#output")[0];
+text.ondragover=(e)=>{
+	e.preventDefault();
+	e.stopPropagation();
+};
+text.ondrop=(e)=>{
+	let file=e.dataTransfer.files[0];
+	let reader=new FileReader();
+	reader.readAsText(file);
+	reader.onloadend=()=>{
+		text.value=reader.result;
+	}
+	e.preventDefault();
+	e.stopPropagation();
+};
 $("#convert")[0].onclick=()=>{
 	if(!text.value)return ;
 	let list=text.value.replaceAll(/\n?\[re:.*\]\n\[ve:.*\]\n?/g,"").trim();
