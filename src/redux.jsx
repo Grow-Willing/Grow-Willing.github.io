@@ -1,11 +1,11 @@
 import { combineReducers } from 'redux'
-import admin from './reducers/admin.jsx'
-import tableList from './reducers/tableList'
+import theme from './reducers/theme.jsx'
+import SilderBar from './reducers/SilderBar'
 import editData from './reducers/editData'
 export default combineReducers(
 	{
-		admin,
-		tableList,
+		theme,
+		SilderBar,
 		editData
 	}
 )
